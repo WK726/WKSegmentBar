@@ -20,6 +20,7 @@
     NSString *ceshi  = @"";
     NSLog(@"");
     NSLog(@"");
+    NSLog(@"release第一次合并到develop");
 }
 
 
