@@ -21,6 +21,7 @@
     NSLog(@"");
     NSLog(@"");
     NSLog(@"release第一次合并到develop");
+    NSLog(@"release_1.3");
 }
 
 
