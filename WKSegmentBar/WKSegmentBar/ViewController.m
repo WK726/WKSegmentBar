@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSString *ceshi  = @"";
-    NSLog(@"");
+    NSLog(@"kjjnkj");
     NSLog(@"");
     NSLog(@"release第一次合并到develop");
 }
